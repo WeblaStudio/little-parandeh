@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://littleparandeh.example/sitemap.xml
